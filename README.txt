@@ -1,7 +1,6 @@
-SFU CMPT 225 assignment
 
-Names: Prince Emmanuel Nitafan
-Emails: pen@sfu.ca
+Names: Prince Nitafan
+Email: pnitafan2020@gmail.com
 
 Description
 -----------
